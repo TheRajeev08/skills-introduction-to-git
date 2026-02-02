@@ -1,5 +1,8 @@
 # Introduction to Git
 
+> **Note:** This is a test repository where I will be practicing and honing my platform knowledge.
+
+_Use Git version control to work on a game using command line (CLI) and VS Code._
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey TheRajeev08!
