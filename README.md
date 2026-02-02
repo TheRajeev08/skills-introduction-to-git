@@ -1,5 +1,7 @@
 # Introduction to Git
 
+> **Note:** This is a test repository where I will be practicing and honing my platform knowledge.
+
 _Use Git version control to work on a game using command line (CLI) and VS Code._
 
 ## Welcome
